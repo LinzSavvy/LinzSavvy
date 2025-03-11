@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there! You may think this is clever, but I'm just folowing my nose! 👋
+
 
 <!--
 **LinzSavvy/LinzSavvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
