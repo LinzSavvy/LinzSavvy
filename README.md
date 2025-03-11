@@ -1,4 +1,4 @@
-## Hi there! You may think this is clever, but I'm just folowing my nose! 👋
+## Hi there! You may think this is clever, but I'm just following my nose! 👋
 
 
 <!--
